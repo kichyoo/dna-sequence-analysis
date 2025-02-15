@@ -17,8 +17,8 @@ A Python tool to analyze DNA sequences from NCBI FASTA files. Calculates GC cont
 ## Results  
 - **GC Content**: 50.79%  
 - **Nucleotide Frequency Plot**:  
-  ![Nucleotide Frequency](images/nucleotide_plot.png)  
+  ![Nucleotide Frequency](images/nucleotide_plot.png)
+- **First 50 RNA bases:** AGCUUUUCAUUCUGACUGCAACGGGCAAUAUGUCUCUGUGUGGAUUAAAA
 
 ## Skills Demonstrated  
-- Python, Biopython, Data Visualization  
-- Bioinformatics workflows (FASTA parsing, GC content calculation)  
+- Python, Numpy, Pandas, Matplotlib, Biopython
