@@ -7,7 +7,7 @@ A Python tool to analyze DNA sequences from NCBI FASTA files. Calculates GC cont
 1. Install [Anaconda](https://www.anaconda.com/products/distribution).  
 2. Install libraries:  
    ```bash  
-   pip install biopython pandas matplotlib  
+   pip install biopython numpy pandas matplotlib  
    ```  
 
 ## Usage  
