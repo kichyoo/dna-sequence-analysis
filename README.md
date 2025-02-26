@@ -15,9 +15,9 @@ A Python tool to analyze DNA sequences from NCBI FASTA files. Calculates GC cont
 2. Run the Jupyter notebook `DNA_Sequence_Analysis.ipynb`.  
 
 ## Results  
-- **GC Content**: 50.79%
 - **Sequence ID**:U00096.3
 - **Sequence length**:4641652bases
+- **GC Content**: 50.79% 
 - **Nucleotide Frequency Plot**:  
   ![Nucleotide Frequency](images/nucleotide_plot.png)
 - **First 50 RNA bases:** AGCUUUUCAUUCUGACUGCAACGGGCAAUAUGUCUCUGUGUGGAUUAAAA
